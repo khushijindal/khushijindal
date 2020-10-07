@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Khushi (meaning: Happiness :upside_down_face:) 
+### I'm Khushi (meaning: Happiness :upside_down_face:) 
 
 <!--
 **khushijindal/khushijindal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
